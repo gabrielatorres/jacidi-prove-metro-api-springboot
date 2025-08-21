@@ -142,6 +142,7 @@ Por defecto el JSON de la especificación está en:
 - **Manejo de errores HTTP específicos** Se deja por fuera de esta solución por falta de tiempo y de conocimiento
   el evitar retornar error HTTP 500 para todos los errores retornados por la API en cada uno de sus módulos.
 
+- **Securidad en peticiones con JWT** Se deja por fuera de esta solución por falta de tiempo.
 
 ---
 
